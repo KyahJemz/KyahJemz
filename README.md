@@ -1,12 +1,13 @@
-### Hi there 👋
 
-<h1 align="center" > Hi, I'm Stephen Regan James Bacolod Layson <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+##
+<h1 align="center"> Hi, I'm Stephen Regan James Bacolod Layson <img src="https://media.giphy.com/media/pr1dbVONbGeVvSiECh/giphy.gif" width="50"></h1>
+
+
+<img align='right' src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="230">
 <h3 align="center" > SRJ Layson </h3>
-
 <p align="center">
-    <a href="https://www.facebook.com/kyahjemz/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white"></img></a>
-    <a href="https://www.linkedin.com/in/kyahjemz/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-squar&logo=linkedin&logoColor=white"></img></a>
+    <a href="https://www.facebook.com/kyahjemz/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white"></img>&nbsp&nbsp</a>
+    <a href="https://www.linkedin.com/in/kyahjemz/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-squar&logo=linkedin&logoColor=white"></img>&nbsp&nbsp</a>
     <a href="mailto:jameslayson.0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></img></a>
 </p>
 
@@ -15,15 +16,17 @@
 - 📫  How to reach me **jameslayson.0@gmail.com**
 - 📫  How to reach me **jameslayson.0@gmail.com**
 - 📫  How to reach me **jameslayson.0@gmail.com**
-- 📫  How to reach me **jameslayson.0@gmail.com**
+
+
+<br>
+<p align="center">
+    <a href="https://github.com/KyahJemz/KyahJemz/blob/main/SRJLayson-CV.pdf">[SRJLayson-CV]</a>
+    &nbsp
+    <a href="https://github.com/KyahJemz/KyahJemz/blob/main/SRJLayson-CV.pdf">[SRJLayson-Resume]</a>
+</p>
   
 ---
-  ### 🔧 Languages and Tools:
-![My Skills](https://skillicons.dev/icons?i=js,html,css,java,php,spring,react,tailwind,mysql,figma,git,github,vscode)
----
-
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+## <img src="https://media.giphy.com/media/60WcGA7PcpqB53IxNf/giphy.gif" width="50"> About me
 
 ```javascript
 const KyahJemz = {
@@ -62,8 +65,19 @@ const KyahJemz = {
 
     about: "I am an aspiring developer."
 }
+
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
+---
+## ⌨️ Code:
+![My Skills](https://skillicons.dev/icons?i=cs,cpp,css,html,java,js,lua,nextjs,php,react)
+---
+---
+## 💾 Database:
+![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,mysql,sqlite)
+---
+---
+## 🔧 Tools:
+![My Skills](https://skillicons.dev/icons?i=figma,git,github,unity,visualstudio,vscode)
+---
 ---
