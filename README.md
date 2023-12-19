@@ -14,8 +14,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=KyahJemz&label=Profile%20views&color=0e75b6&style=flat" alt="comethalley" /> </p>
 
 - 📫  How to reach me **jameslayson.0@gmail.com**
-- 📫  How to reach me **jameslayson.0@gmail.com**
-- 📫  How to reach me **jameslayson.0@gmail.com**
+- 📫  How to reach me **s.stephen.layson@sscr.edu**
 
 
 <br>
@@ -31,39 +30,39 @@
 ```javascript
 const KyahJemz = {
 
-    Code: [ Javascript, PHP, HTML, CSS, C#, Java, C++ ],
+	Code: [ "Javascript", "PHP", "HTML", "CSS", "C#", "Java", "C++" ],
 
-    Frameworks: [ Codeigniter 3, Next.js, React.js ],
+	Frameworks: [ "Codeigniter 3", "Next.js", "React.js" ],
 
-    Database: [ MySQL, Firebase, MongoDB, SQLite, MSSQL ],
+	Database: [ "MySQL", "Firebase", "MongoDB", "SQLite", "MSSQL" ],
 
-    Areas: {
+	Areas: {
 
-        Mobile App Development : {
-            Knowledge: [ Java, XML, SQLite, Firebase ],
-        },
+		"Mobile App Development" : {
+			"Knowledge": [ "Java", "XML", "SQLite", "Firebase" ],
+		},
 
-        Web App Development : {
-            Knowledge: [ PHP, Javascript, HTML, CSS, MongoDB, MySQL, API ],  
-        },
+		"Web App Development" : {
+			"Knowledge": [ "PHP", "Javascript", "HTML", "CSS", "MongoDB", "MySQL", "API" ],  
+		},
 
-        Software Development: {
-            Knowledge: [ Visual Basic, Java, C++, MSSQL ],  
-        },
+		"Software Development": {
+			"Knowledge": [ "Visual" "Basic", "Java", "C++", "MSSQL" ],  
+		},
 
-        Game Development: {
-            Type: {
-                Unity: [ C# ],
-                Browser: [ Javascript ],
-                Roblox Studio: [ Lua ],
-            },  
-        },
+		"Game Development": {
+			"Type": {
+				"Unity": [ "C#" ],
+				"Browser": [ "Javascript" ],
+				"Roblox Studio": [ "Lua" ],
+			},  
+		},
 
-        Others: {
-             Google app scripts: [ Google Sheets ],
-        },
+		"Others": {
+			"Google app scripts": [ "Google Sheets", ],
+		},
 
-    about: "I am an aspiring developer."
+	about: "I am an aspiring developer."
 }
 
 ```
