@@ -20,8 +20,6 @@
 <br>
 <p align="center">
     <a href="https://github.com/KyahJemz/KyahJemz/blob/main/SRJLayson-CV.pdf">[SRJLayson-CV]</a>
-    &nbsp
-    <a href="https://github.com/KyahJemz/KyahJemz/blob/main/SRJLayson-CV.pdf">[SRJLayson-Resume]</a>
 </p>
   
 ---
