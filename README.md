@@ -43,11 +43,12 @@ const KyahJemz = {
 		},
 
 		"Web App Development" : {
-			"Knowledge": [ "PHP", "Javascript", "HTML", "CSS", "MongoDB", "MySQL", "API" ],  
+			"Knowledge": [ "PHP", "JavaScript", "HTML", "CSS", "MongoDB", "MySQL" ],
+			"Frameworks": [ "CodeIgniter 3", "React.Js", "Next.Js", "Node.Js", "Laravel"]
 		},
 
 		"Software Development": {
-			"Knowledge": [ "Visual" "Basic", "Java", "C++", "MSSQL" ],  
+			"Knowledge": [ "Visual Basic", "Java", "C#", "MSSQL" ],  
 		},
 
 		"Game Development": {
@@ -59,7 +60,7 @@ const KyahJemz = {
 		},
 
 		"Others": {
-			"Google app scripts": [ "Google Sheets", ],
+			"Google apps scripts": [ "Google Sheets", ],
 		},
 
 	about: "I am an aspiring developer."
