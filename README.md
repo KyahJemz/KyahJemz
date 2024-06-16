@@ -25,6 +25,46 @@
 ---
 ## <img src="https://media.giphy.com/media/60WcGA7PcpqB53IxNf/giphy.gif" width="50"> About me
 
+
+Hello, I am Stephen.
+
+Graduated BS Information Technology in San Sebastian College - Recoletos de Cavite
+
+- Motivated and always willing to learn new things
+- Independent and self-sufficient in handling tasks
+- Collaborative and able to work in teams or groups
+- Willing to learn
+
+Mobile Development 
+- Java
+
+Web Development 
+- PHP: CodeIgniter 3
+- JavaScript: Next.js, React.js, Nest.js, Node.js, TypeScript
+- HTML
+- CSS: SCSS
+- Vanilla JavaScript
+- Vanilla PHP
+
+Software Development
+- C++
+
+Game Development
+- C#: Unity
+- LUA: Roblox Studio
+- JAVASCRIPT: Browser games
+
+Database 
+- MySQL
+- MSSQL
+- SQLite
+- MongoDB
+- Firebase
+- PostgreSQL
+
+Others 
+- Google app scripts
+  
 ```javascript
 const KyahJemz = {
 
@@ -65,17 +105,3 @@ const KyahJemz = {
 }
 
 ```
-
----
-## ⌨️ Code:
-![My Skills](https://skillicons.dev/icons?i=cs,cpp,css,html,java,js,lua,nextjs,php,react)
----
----
-## 💾 Database:
-![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,mysql,sqlite)
----
----
-## 🔧 Tools:
-![My Skills](https://skillicons.dev/icons?i=figma,git,github,unity,visualstudio,vscode)
----
----
