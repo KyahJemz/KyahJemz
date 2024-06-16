@@ -25,9 +25,9 @@
 <br>
 
 <p align="center">
-	<a href="https://github.com/KyahJemz/KyahJemz/blob/main/SRJLayson-CV.pdf">[Resume/CV]</a>
+	<a href="https://github.com/KyahJemz/KyahJemz/blob/main/SRJLayson-CV.pdf">[ Resume / CV ]</a>
 	&nbsp&nbsp
-	<a href="https://github.com/KyahJemz/KyahJemz/blob/main/SRJLayson-CV.pdf">[Certificates]</a>
+	<a href="https://github.com/KyahJemz/KyahJemz/blob/main/SRJLayson-CV.pdf">[ Certificates ]</a>
 </p>
   
 ---
